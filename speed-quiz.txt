@@ -1,0 +1,34 @@
+ACOUSTICS 01
+SPEED QUIZ
+
+1) Which of the following recording sample rates are non-standard?
+	a) 27,000 Hz
+	b) 44,100 Hz
+	c) 48,000 Hz
+	d) 96,000 Hz
+
+2) What stereo-spreading technique was used?
+	a) Gjetning Signaling-based correlation
+	b) Haas Effect-based correlation
+	c) Velvet Noise-based correlation
+	d) Deconvolution method
+
+3) Does B# exist?
+	write-in answer:
+
+
+4) Which of the following is not a wind instrument?
+	a) Cor anglais
+	b) Contrabass recorder
+	c) Sausage bassoon
+	d) Funky clarinet
+
+5) Is 4/4 the same as 2/2?
+	write-in answer:
+
+
+6) What does the acronym DAW typically stand for?
+	a) Dark Aeolian Waterphone
+	b) Double Acoustic Whistle
+	c) Dampening Ashiko Wool
+	d) Digital Audio Workstation
